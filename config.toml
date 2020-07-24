@@ -45,6 +45,10 @@ url = "https://github.com/stolet"
 icon = "fa-envelope"
 url = "mailto:stolet@cs.ubc.ca"
 
+[[params.socialIcons]]
+icon = "fa-file"
+url = "/StoletCV.pdf"
+
 ## Menu items
 
 [menu]
