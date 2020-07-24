@@ -1,9 +1,9 @@
-baseURL = "https://example.com/"
+baseURL = "https://example.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
 title = "Matheus Stolet Website"
 theme = "anatole"
-summarylength = 10
+summarylength = 100000
 enableEmoji = true
 enableRobotsTXT = true
 
@@ -22,7 +22,7 @@ keywords = ""
 favicon = "favicons/"
 customCss = []
 customJs = []
-mainSections = []
+mainSections = ["home"]
 images = ["images/site-feature-image.png"]
 
 ## Math settings
@@ -50,7 +50,7 @@ icon = "fa-envelope"
 
   [[menu.main]]
   name = "Bio"
-  identifier = "home"
+  identifier = "bio"
   weight = 100
   url = "#bio"
 
@@ -64,7 +64,7 @@ icon = "fa-envelope"
   name = "Publications"
   weight = 300
   identifier = "publications"
-  url = "publications"
+  url = "#publications"
 
   [[menu.main]]
   name = "Experience"

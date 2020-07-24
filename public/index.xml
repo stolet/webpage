@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Matheus Stolet Website</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Matheus Stolet Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://example.com/home/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/home/home/</guid>
+      <description>Bio I am a MSc student at the Networks, Systems and Security lab of the University of British Columbia, under the supervision of Ivan Beschastnikh and Aline Talhouk. My interests revolve around building secure and privacy-preserving distributed systems. More specifically, I explore novel ways for systems to conserve their privacy budget when operating under a differential privacy framework.
+I am also interested in creatively employing visualization techniques to debug the performance of large distributed systems, building distributed frameworks to support data analytics and machine learning, and researching kernel bypassing methods to optimize user-space file systems.
+Projects Publications Experience Education MSc: Computer Science - 2019-2021
+University of British Columbia
+BA: Major, Computer Science | Minor, Philosophy - 2015-2019
+University of British Columbia</description>
+    </item>
+    
+  </channel>
+</rss>
