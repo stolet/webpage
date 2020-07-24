@@ -53,19 +53,19 @@ icon = "fa-envelope"
   identifier = "bio"
   weight = 100
   url = "#bio"
+  
+  [[menu.main]]
+  name = "Education"
+  weight = 200
+  identifier = "education"
+  url = "#education"
 
   [[menu.main]]
   name = "Projects"
-  weight = 200
+  weight = 300
   identifier = "projects"
   url = "#projects"
   
-  [[menu.main]]
-  name = "Publications"
-  weight = 300
-  identifier = "publications"
-  url = "#publications"
-
   [[menu.main]]
   name = "Experience"
   weight = 400
@@ -73,7 +73,8 @@ icon = "fa-envelope"
   url = "#experience"
   
   [[menu.main]]
-  name = "Education"
+  name = "Publications"
   weight = 500
-  identifier = "education"
-  url = "#education"
+  identifier = "publications"
+  url = "#publications"
+  
