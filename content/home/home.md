@@ -92,9 +92,12 @@ Federated Learning is the current state of the art in supporting secure multi-pa
 
 ---
 
-# Publications
+# Posters and Talks
 
 ### [Finesse: Kernel Bypass for File Systems](https://www.eurosys2020.org/wp-content/uploads/2020/04/eurosys20posters-final100-abstract.pdf) (Poster)
 **European Conference on Computer Systems (EuroSys' 20)**
 
 ***Matheus Stolet and Tony Mason***
+
+### LEAP: a Large-scale federated and privacy preserving Evaluation & Analysis Platform (Talk)
+**BC Cancer Research Summit (2019)**
