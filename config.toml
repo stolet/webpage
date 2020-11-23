@@ -1,0 +1,85 @@
+baseURL = "https://stolet.github.io"
+languageCode = "en"
+DefaultContentLanguage = "en"
+title = "Matheus Stolet Website"
+theme = "anatole-custom"
+summarylength = 100000
+enableEmoji = true
+enableRobotsTXT = true
+
+# Enable Disqus
+#disqusShortname = ""
+
+# Google Analytics
+#googleAnalytics = "UA-123-45"
+
+[params]
+title = "Matheus Stolet"
+author = "Matheus Stolet"
+description = "MSc Student at UBC"
+profilePicture = "profile.jpg"
+keywords = ""
+favicon = "favicons/"
+customCss = []
+customJs = []
+mainSections = ["home"]
+images = ["images/site-feature-image.png"]
+
+## Math settings
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"  # options: "katex", "mathjax". default is "katex".
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/matheus-stolet-b57406149/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/stolet"
+
+[[params.socialIcons]]
+icon = "fa-envelope"
+url = "mailto:stolet@cs.ubc.ca"
+
+[[params.socialIcons]]
+icon = "fa-file"
+url = "/StoletCV.pdf"
+
+## Menu items
+
+[menu]
+
+  [[menu.main]]
+  name = "Bio"
+  identifier = "bio"
+  weight = 100
+  url = "#bio"
+  
+  [[menu.main]]
+  name = "Education"
+  weight = 200
+  identifier = "education"
+  url = "#education"
+
+  [[menu.main]]
+  name = "Projects"
+  weight = 300
+  identifier = "projects"
+  url = "#projects"
+  
+  [[menu.main]]
+  name = "Experience"
+  weight = 400
+  identifier = "experience"
+  url = "#experience"
+  
+  [[menu.main]]
+  name = "Publications"
+  weight = 500
+  identifier = "publications"
+  url = "#publications"
+  
