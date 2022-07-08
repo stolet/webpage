@@ -15,12 +15,10 @@
       <description>Bio I am a PhD student at MPI-SWS, where I am advised by Antoine Kaufmann and investigate ways to free server CPUs from the burden of TCP packet processing. I also work with Jonathan Mace and have explored reinforcement learning techniques to improve scheduling of requests when performing machine learning inference.
 Previously, I was a MSc student in the Systopia Lab at the University of British Columbia, under the supervision of Ivan Beschastnikh and Aline Talhouk. At UBC my interests revolved around building secure and privacy-preserving distributed systems, where I collaborated closely with Mathias Lécuyer on exploring novel ways for DP systems to conserve their privacy budget.
 I am also interested in employing visualization techniques to debug the performance of large distributed systems, building distributed frameworks for data analytics and machine learning, and researching kernel bypassing methods to optimize user-space file systems.
-Education 🎓 PhD: Computer Science - 2021-Present
-Max Planck Institute for Software Systems
-🎓 MSc: Computer Science - 2019-2021
-University of British Columbia
-🎓 BA: Major, Computer Science | Minor, Philosophy - 2015-2019
-University of British Columbia
+Posters and Publications The Odd One Out: Energy is not like Other Metrics HotCarbon 22
+Vaastav Anand, Zhiqiang Xie, Matheus Stolet, Roberta De Viti, Thomas Davidson, Reyhaneh Karimipour, Jonathan Mace
+Finesse: Kernel Bypass for File Systems (Poster) European Conference on Computer Systems (EuroSys&amp;rsquo; 20)
+Matheus Stolet and Tony Mason
 Projects LEAP 🐸 LEAP is a large-scale federated and privacy preserving evaluation and analysis platform. LEAP allows users to analyze data distributed across multiple institutions in a private and secure manner, without leaking sensitive user information. This is achieved through an infrastructure that maintains privacy by design and brings the computation to the data, instead of bringing the data to the computation.
 User queries are propagated to different sites, where each site gives back the result of running the computation on the local data, with carefully added noise to guarantee differential privacy. These results are then returned to the LEAP infrastructure in the cloud, where they are aggregated and sent to the end-user. The infrastructure also keeps track of the privacy loss from each query, safeguarding against information leakage from repeated queries.
 TraVista 🌌 Performance issues in cloud systems are hard to debug. Distributed tracing is a widely adopted approach that gives engineers visibility into cloud systems. Existing tracing tools support the analysis of a single request and are most useful for debugging correctness issues. However, diagnosing performance issues in the processing of a request requires comparing the performance statistics of the offending request with those of normal requests. This processing depends on trace aggregation, which is not supported by existing tracing tools.
@@ -39,11 +37,7 @@ Graded assignments and quizzes
 Software Developer - Thrive Health May 2018 - August 2018 Worked on program to triage patients before surgery
 Used React and Redux to build webapp frontend
 Developed a media transcoder to convert videos into mp4 and to extract thumbnail from pictures
-Used AWS lambdas and SQS to scale deployment of media transcoder
-Posters and Publications The Odd One Out: Energy is not like Other Metrics HotCarbon 22
-Vaastv Anand, Zhiqiang Xie, Matheus Stolet, Roberta De Viti, Thomas Davidson, Reyhaneh Karimipour, Jonathan Mace
-Finesse: Kernel Bypass for File Systems (Poster) European Conference on Computer Systems (EuroSys&amp;rsquo; 20)
-Matheus Stolet and Tony Mason</description>
+Used AWS lambdas and SQS to scale deployment of media transcoder</description>
     </item>
     
   </channel>
