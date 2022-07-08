@@ -6,15 +6,19 @@ author = "Matheus Stolet"
 
 # Bio
 
-I am a MSc student at the [Networks, Systems and Security Lab](https://www.cs.ubc.ca/labs/nss/html/index.html) of the University of British Columbia, under the supervision of
-    [Ivan Beschastnikh](https://www.cs.ubc.ca/~bestchai/) and [Aline Talhouk](http://alinetalhouk.com/). My interests revolve around building secure and privacy-preserving distributed systems. More precisely, I explore novel ways for systems providing differential privacy to conserve their privacy budget.
+I am a PhD student at MPI-SWS, where I am advised by [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/index.html) and investigate ways to free server CPUs from the burden of TCP packet processing. I also work with [Jonathan Mace](https://people.mpi-sws.org/~jcmace/) and have explored reinforcement learning techniques to improve scheduling of requests when performing machine learning inference. 
 
+Previously, I was a MSc student in the [Systopia Lab](https://systopia.cs.ubc.ca/) at the University of British Columbia, under the supervision of Ivan Beschastnikh[](https://www.cs.ubc.ca/~bestchai/) and Aline Talhouk[](http://alinetalhouk.com/). At UBC my interests revolved around building secure and privacy-preserving distributed systems, where I collaborated closely with Mathias Lécuyer[](http://mathias.lecuyer.me/) on exploring novel ways for DP systems to conserve their privacy budget.
 
-I am also interested in creatively employing visualization techniques to debug the performance of large distributed systems, building distributed frameworks to support data analytics and machine learning, and researching kernel bypassing methods to optimize user-space file systems.
+I am also interested in employing visualization techniques to debug the performance of large distributed systems, building distributed frameworks for data analytics and machine learning, and researching kernel bypassing methods to optimize user-space file systems.
 
 ---
 
 # Education
+
+:mortar_board: **PhD: Computer Science - 2021-Present**
+
+*Max Planck Institute for Software Systems*
 
 :mortar_board: **MSc: Computer Science - 2019-2021**
 
@@ -92,12 +96,14 @@ Federated Learning is the current state of the art in supporting secure multi-pa
 
 ---
 
-# Posters and Talks
+# Posters and Publications
+
+### The Odd One Out: Energy is not like Other Metrics
+**HotCarbon 22**
+
+***Vaastv Anand, Zhiqiang Xie, Matheus Stolet, Roberta De Viti, Thomas Davidson, Reyhaneh Karimipour, Jonathan Mace***
 
 ### [Finesse: Kernel Bypass for File Systems](https://www.eurosys2020.org/wp-content/uploads/2020/04/eurosys20posters-final100-abstract.pdf) (Poster)
 **European Conference on Computer Systems (EuroSys' 20)**
 
 ***Matheus Stolet and Tony Mason***
-
-### LEAP: a Large-scale federated and privacy preserving Evaluation & Analysis Platform (Talk)
-**BC Cancer Research Summit (2019)**
