@@ -6,11 +6,9 @@ author = "Matheus Stolet"
 
 # Bio
 
-I am a PhD student at MPI-SWS, where I am advised by [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/index.html) and investigate ways to free server CPUs from the burden of TCP packet processing. I also work with [Jonathan Mace](https://people.mpi-sws.org/~jcmace/) and have explored reinforcement learning techniques to improve scheduling of requests when performing machine learning inference. 
+I am a PhD student at MPI-SWS, where I am advised by [Antoine Kaufmann](https://people.mpi-sws.org/~antoinek/index.html) and investigate TCP kernel bypass and ways to free server CPUs from the burden of TCP packet processing. I also work with [Jonathan Mace](https://people.mpi-sws.org/~jcmace/) with whom I have explored reinforcement learning techniques to improve scheduling of requests for machine learning inference. 
 
 Previously, I was a MSc student in the [Systopia Lab](https://systopia.cs.ubc.ca/) at the University of British Columbia, under the supervision of Ivan Beschastnikh[](https://www.cs.ubc.ca/~bestchai/) and [Aline Talhouk](http://alinetalhouk.com/). At UBC my interests revolved around building secure and privacy-preserving distributed systems, where I collaborated closely with [Mathias Lécuyer](http://mathias.lecuyer.me/) on exploring novel ways for DP systems to conserve their privacy budget.
-
-I am also interested in employing visualization techniques to debug the performance of large distributed systems, building distributed frameworks for data analytics and machine learning, and researching kernel bypassing methods to optimize user-space file systems.
 
 ---
 
@@ -98,7 +96,7 @@ Federated Learning is the current state of the art in supporting secure multi-pa
 
 # Posters and Publications
 
-### The Odd One Out: Energy is not like Other Metrics
+### [The Odd One Out: Energy is not like Other Metrics](https://hotcarbon.org/pdf/hotcarbon22-anand.pdf)
 **HotCarbon 22**
 
 ***Vaastv Anand, Zhiqiang Xie, Matheus Stolet, Roberta De Viti, Thomas Davidson, Reyhaneh Karimipour, Jonathan Mace***
