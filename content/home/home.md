@@ -94,7 +94,7 @@ Federated Learning is the current state of the art in supporting secure multi-pa
 
 ---
 
-# Posters and Publications
+# Publications and Posters
 
 ### [The Odd One Out: Energy is not like Other Metrics](https://hotcarbon.org/pdf/hotcarbon22-anand.pdf)
 **HotCarbon 22**
