@@ -30,7 +30,7 @@ Previously, I was a MSc student in the [Systopia Lab](https://systopia.cs.ubc.ca
 
 # Projects
 
-### Virtuoso
+### [Virtuoso](https://arxiv.org/abs/2309.14016)
 
 Virtuoso is a TCP acceleration service for virtualized environments targeted at applications that require low latency and high throughput. Virtuoso runs as a service alongside the host and provides a fast-path for common send and receive operations that reduces the virtualization overheads incurred by the hypervisor and guest operating system. The network stack is shared between multiple VMs, thus increasing the utilization of the underlying resources. Virtuoso only has to provision for peak aggregate utilization, instead of the sum of the peak utilizations of each VM. Furthermore, Virtuoso ensures performance isolation in a shared stack by doing fine-grained scheduling that reduces inter-VM interference of running applications.
 
