@@ -16,7 +16,7 @@ enableRobotsTXT = true
 [params]
 title = "Matheus Stolet"
 author = "Matheus Stolet"
-description = "MSc Student at UBC"
+description = "PhD Student at MPI-SWS"
 profilePicture = "profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -72,14 +72,25 @@ url = "/StoletCV.pdf"
   url = "#projects"
   
   [[menu.main]]
-  name = "Experience"
+  name = "Employment"
   weight = 400
-  identifier = "experience"
-  url = "#experience"
+  identifier = "employment"
+  url = "#employment"
   
   [[menu.main]]
-  name = "Publications"
+  name = "Teaching"
   weight = 500
-  identifier = "publications"
-  url = "#publications"
+  identifier = "teaching"
+  url = "#teaching"
   
+  [[menu.main]]
+  name = "Papers"
+  weight = 600
+  identifier = "papers"
+  url = "#papers"
+  
+  [[menu.main]]
+  name = "Posters"
+  weight = 700
+  identifier = "posters"
+  url = "#posters"
