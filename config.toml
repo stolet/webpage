@@ -43,7 +43,7 @@ url = "https://github.com/stolet"
 
 [[params.socialIcons]]
 icon = "fa-envelope"
-url = "mailto:stolet@cs.ubc.ca"
+url = "mailto:mstolet@mpi-sws.org"
 
 [[params.socialIcons]]
 icon = "fa-file"

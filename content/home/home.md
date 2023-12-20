@@ -119,7 +119,7 @@ Federated Learning is the current state of the art in supporting secure multi-pa
 # Posters
 
 ### Virtuoso TCP Stack: Squashing Isolation and Resource Efficiency Tradeoffs in Virtualized Environments
-**SOSP 23 Student Research Competition**
+**1st Place SOSP 23 Student Research Competition**
 
 ***Matheus Stolet***
 
