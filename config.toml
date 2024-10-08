@@ -1,7 +1,7 @@
 baseURL = "https://stolet.github.io"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Matheus Stolet Website"
+title = ""
 theme = "anatole-custom"
 summarylength = 100000
 enableEmoji = true
@@ -64,12 +64,6 @@ url = "/StoletCV.pdf"
   weight = 200
   identifier = "education"
   url = "#education"
-
-  [[menu.main]]
-  name = "Projects"
-  weight = 300
-  identifier = "projects"
-  url = "#projects"
   
   [[menu.main]]
   name = "Employment"
@@ -88,9 +82,4 @@ url = "/StoletCV.pdf"
   weight = 600
   identifier = "papers"
   url = "#papers"
-  
-  [[menu.main]]
-  name = "Posters"
-  weight = 700
-  identifier = "posters"
-  url = "#posters"
+
